@@ -1,3 +1,6 @@
+## default setting is 'track' for keywords
+## switch 'track' to follow to stream tweets based on user ID instead
+
 import tweepy
 from tweepy import OAuthHandler
 from tweepy import Stream
